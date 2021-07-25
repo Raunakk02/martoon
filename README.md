@@ -1,6 +1,6 @@
 # martoon
 
-A new Flutter project.
+Martoon captures the image of the user and displays a cartoon that is predicted by the random number generator.
 
 ## Getting Started
 
