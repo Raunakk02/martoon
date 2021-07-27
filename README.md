@@ -4,7 +4,7 @@ Martoon captures the image of the user and displays a cartoon that is predicted 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for Martoon application.
 
 A few resources to get you started if this is your first Flutter project:
 
