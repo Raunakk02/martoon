@@ -1,6 +1,6 @@
 # martoon
 
-Martoon captures the image of the user and displays a cartoon that is predicted by the random number generator.
+Martoon captures the image of the user and displays a cartoon that is predicted by the random number generator. Believe me, its Fun!!
 
 ## Getting Started
 
